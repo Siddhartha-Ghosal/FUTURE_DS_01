@@ -18,7 +18,7 @@ and profit leakage — presented as a client-ready dashboard.
 4. Run Q1 promotions to reduce the seasonal revenue dip
 
 ## Tools Used
-- WPS Office (Excel-compatible pivot tables, charts, and dashboard)
+- Excel (Excel-compatible pivot tables, charts, and dashboard)
 - Dataset: Superstore Sales Dataset (Kaggle)
 
 ## Files in This Repository
