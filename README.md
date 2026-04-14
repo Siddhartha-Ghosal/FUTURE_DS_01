@@ -29,7 +29,7 @@ and profit leakage — presented as a client-ready dashboard.
 | Superstore_Insights.pdf | Written insights and recommendations |
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 ## How to Use
 1. Download the .xlsx file
 2. Open in Excel or WPS Office
